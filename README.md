@@ -22,6 +22,10 @@ Sou comunicativa, organizada e tenho experiÃªncia em trabalho em equipe. Estou Ã
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemicomette&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"%20alt="top%20langs"></p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE2bGp1ZDVwNXp6dTRzMTZlejJ5NWtjNGEyZjd2emNrMDhjNHdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif" width="700"></p>
+
+
 
 
 
