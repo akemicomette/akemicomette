@@ -14,7 +14,7 @@ Sou comunicativa, organizada e tenho experiÃªncia em trabalho em equipe. Estou Ã
 <h3>Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,react,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
   </a>
 </p>
 
